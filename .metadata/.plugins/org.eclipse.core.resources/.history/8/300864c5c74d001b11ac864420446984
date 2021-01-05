@@ -1,0 +1,10 @@
+package jbasics;
+
+public class Operations {
+	public static void main(String[] args) {
+int x=5;
+	int y=10;
+	System.out.println("the sum of both numbers is" + x+y);
+	
+	}
+}

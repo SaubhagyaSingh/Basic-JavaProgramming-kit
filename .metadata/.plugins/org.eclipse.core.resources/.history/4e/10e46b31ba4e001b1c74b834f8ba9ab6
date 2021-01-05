@@ -1,0 +1,22 @@
+package Common_problems;
+import java.util.*;
+public class kerdi2 {
+
+	public static void main(String[] args) {
+	
+		Scanner input = new Scanner(System.in);
+		int a =input.nextInt();
+		int b=input.nextInt();
+		int n=input.nextInt();
+		for(int x=n-1;x<n;x++) {
+			int k = a+2^(x-1)*b;
+			System.out.println(k);
+			
+		
+		
+		
+		
+
+	}
+	}
+}

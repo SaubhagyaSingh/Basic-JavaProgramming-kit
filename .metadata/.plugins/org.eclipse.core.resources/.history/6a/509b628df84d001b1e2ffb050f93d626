@@ -1,0 +1,12 @@
+package flowstatement;
+
+public class ForLoop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+ for (int x=5;x<=50;x=x+5) 
+ {
+		System.out.println(x);
+	}
+	}
+}

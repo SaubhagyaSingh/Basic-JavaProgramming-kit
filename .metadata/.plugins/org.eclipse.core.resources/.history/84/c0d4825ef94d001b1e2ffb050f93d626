@@ -1,0 +1,10 @@
+package Common_problems;
+
+public class Pyramid_pattern_problem {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

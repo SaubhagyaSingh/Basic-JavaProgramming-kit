@@ -1,0 +1,21 @@
+package Common_problems;
+import java.util.*;
+public class Kerdi {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner input = new Scanner(System.in);
+		int a =input.nextInt();
+		int b=input.nextInt();
+		int n=input.nextInt();
+		int q=input.nextInt();
+		for(int x=n-1;x<n;x++) 
+		{
+			 a=(a+(int)Math.pow(2,x-1))*b;
+			System.out.println(a);
+		
+		
+		
+		}
+	}
+}

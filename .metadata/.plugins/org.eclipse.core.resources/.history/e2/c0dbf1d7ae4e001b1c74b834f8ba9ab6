@@ -1,0 +1,25 @@
+package Common_problems;
+import java.util.*;
+public class Kerdi {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner input = new Scanner(System.in);
+		int a =input.nextInt();
+		int b=input.nextInt();
+		int n=input.nextInt();
+		int q=input.nextInt();
+		for(int p=q;p<q;p++) {
+		for(int x=n-1;x<n;x++) 
+		{
+			int k = a+2^(x-1)*b;
+			int z=(a+2^x)*b;
+			System.out.println(k);
+			System.out.println(z);
+		
+		
+		
+		}
+	}
+}
+}

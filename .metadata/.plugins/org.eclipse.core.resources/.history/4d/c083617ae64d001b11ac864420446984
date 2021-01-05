@@ -1,0 +1,16 @@
+package jbasics;
+
+public class Operations {
+	public static void main(String[] args) {
+int x=5;
+	int y=10;
+	int sum=x+y;
+	int dif=x-y;
+	int pro=x*y;
+	double div=x/y;
+	System.out.println("the sum of both numbers is " + sum);
+	System.out.println("the product of both the numbers is " +pro);
+	System.out.println("the ratio of both the numbers is "+ div);
+	System.out.println("the difference of both the numbers is "+dif);
+	}
+}

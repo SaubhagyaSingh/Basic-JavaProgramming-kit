@@ -1,0 +1,17 @@
+package jbasics;
+
+public class Logicaloperators {
+	public static void main(String[] args) {
+//Logical operators
+		boolean a=true;
+		boolean b= false;
+	System.out.println(a&b);
+	
+	
+	
+	
+	
+	
+	
+	}
+}
